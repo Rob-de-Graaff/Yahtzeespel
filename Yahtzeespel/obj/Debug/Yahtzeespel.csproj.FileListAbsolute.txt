@@ -1,0 +1,30 @@
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel\Yahtzeespel\bin\Debug\Yahtzeespel.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel\Yahtzeespel\bin\Debug\Yahtzeespel.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel\Yahtzeespel\bin\Debug\Yahtzeespel.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel\Yahtzeespel\obj\Debug\Yahtzeespel.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel\Yahtzeespel\obj\Debug\Yahtzeespel.Form1.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel\Yahtzeespel\obj\Debug\Yahtzeespel.Properties.Resources.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel\Yahtzeespel\obj\Debug\Yahtzeespel.csproj.GenerateResource.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel\Yahtzeespel\obj\Debug\Yahtzeespel.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel\Yahtzeespel\obj\Debug\Yahtzeespel.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel\Yahtzeespel\obj\Debug\Yahtzeespel.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel - Copy\Yahtzeespel\bin\Debug\Yahtzeespel.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel - Copy\Yahtzeespel\bin\Debug\Yahtzeespel.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel - Copy\Yahtzeespel\bin\Debug\Yahtzeespel.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel - Copy\Yahtzeespel\obj\Debug\Yahtzeespel.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel - Copy\Yahtzeespel\obj\Debug\Yahtzeespel.Form1.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel - Copy\Yahtzeespel\obj\Debug\Yahtzeespel.Properties.Resources.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel - Copy\Yahtzeespel\obj\Debug\Yahtzeespel.csproj.GenerateResource.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel - Copy\Yahtzeespel\obj\Debug\Yahtzeespel.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel - Copy\Yahtzeespel\obj\Debug\Yahtzeespel.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel - Copy\Yahtzeespel\obj\Debug\Yahtzeespel.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel V2 (hold)\Yahtzeespel\bin\Debug\Yahtzeespel.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel V2 (hold)\Yahtzeespel\bin\Debug\Yahtzeespel.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel V2 (hold)\Yahtzeespel\bin\Debug\Yahtzeespel.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel V2 (hold)\Yahtzeespel\obj\Debug\Yahtzeespel.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel V2 (hold)\Yahtzeespel\obj\Debug\Yahtzeespel.Form1.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel V2 (hold)\Yahtzeespel\obj\Debug\Yahtzeespel.Properties.Resources.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel V2 (hold)\Yahtzeespel\obj\Debug\Yahtzeespel.csproj.GenerateResource.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel V2 (hold)\Yahtzeespel\obj\Debug\Yahtzeespel.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel V2 (hold)\Yahtzeespel\obj\Debug\Yahtzeespel.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 7 Maak een Yahtzeespel\Yahtzeespel V2 (hold)\Yahtzeespel\obj\Debug\Yahtzeespel.pdb
